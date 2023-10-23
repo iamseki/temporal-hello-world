@@ -1,4 +1,4 @@
-# TemporalIO Hello World Tutorial
+# TemporalIO Hello World
 
 ## Running locally
 
